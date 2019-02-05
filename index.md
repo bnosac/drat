@@ -11,41 +11,21 @@ This repository contains open R packages developed by BNOSAC not yet published o
 
 
 ```r
-available.packages(repos = "https://bnosac.github.io/drat")
+pkgs <- available.packages(repos = "https://bnosac.github.io/drat")
+pkgs[, c("Package", "Version", "License")]
 ```
 
 ```
-##                         Package                   Version Priority Depends
-## image.CornerDetectionF9 "image.CornerDetectionF9" "0.1.0" NA       NA     
-## image.Otsu              "image.Otsu"              "0.1"   NA       NA     
-##                         Imports            LinkingTo
-## image.CornerDetectionF9 "Rcpp (>= 0.12.8)" "Rcpp"   
-## image.Otsu              "Rcpp (>= 0.12.8)" "Rcpp"   
-##                         Suggests                Enhances
-## image.CornerDetectionF9 "pixmap, magick, knitr" NA      
-## image.Otsu              "magick"                NA      
-##                         License                       License_is_FOSS
-## image.CornerDetectionF9 "BSD_2_clause + file LICENSE" NA             
-## image.Otsu              "MIT + file LICENSE"          NA             
-##                         License_restricts_use OS_type Archs
-## image.CornerDetectionF9 NA                    NA      NA   
-## image.Otsu              NA                    NA      NA   
-##                         MD5sum                            
-## image.CornerDetectionF9 "5cdb01b2c35fc12f6963c504cb73d9e3"
-## image.Otsu              "f6a259b0f32a6309d269c836ae23790c"
-##                         NeedsCompilation File
-## image.CornerDetectionF9 "yes"            NA  
-## image.Otsu              "yes"            NA  
-##                         Repository                                 
-## image.CornerDetectionF9 "https://bnosac.github.io/drat/src/contrib"
-## image.Otsu              "https://bnosac.github.io/drat/src/contrib"
+##                         Package                   Version
+## image.CornerDetectionF9 "image.CornerDetectionF9" "0.1.0"
+## image.Otsu              "image.Otsu"              "0.1"  
+##                         License                      
+## image.CornerDetectionF9 "BSD_2_clause + file LICENSE"
+## image.Otsu              "MIT + file LICENSE"
 ```
 
-## To install a package
+To install a package, just type: `install.packages("thepackagename", repos = "https://bnosac.github.io/drat")`
 
-```
-install.packages("...", repos = "https://bnosac.github.io/drat")
-``` 
 
 ## File listing
 
