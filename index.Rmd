@@ -13,7 +13,7 @@ pkgs
 ``` 
 
 ```{r echo=FALSE}
-knitr::kable(pkgs[, c("Package", "Version", "License")], format = "markdown", row.names = FALSE)
+knitr::kable(pkgs[, c("Package", "Version", "License", "Depends", "Imports", "Suggests")], format = "markdown", row.names = FALSE)
 ``` 
 
 ## File listing
