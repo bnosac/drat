@@ -31,8 +31,8 @@ available.packages(repos = "https://bnosac.github.io/drat")
 ## image.CornerDetectionF9 NA                    NA      NA   
 ## image.Otsu              NA                    NA      NA   
 ##                         MD5sum                            
-## image.CornerDetectionF9 "8e45d965f33d949fa437b4f77fb72551"
-## image.Otsu              "e7e61e749075b4943a141f3d8dce7432"
+## image.CornerDetectionF9 "5cdb01b2c35fc12f6963c504cb73d9e3"
+## image.Otsu              "f6a259b0f32a6309d269c836ae23790c"
 ##                         NeedsCompilation File
 ## image.CornerDetectionF9 "yes"            NA  
 ## image.Otsu              "yes"            NA  
@@ -46,3 +46,19 @@ available.packages(repos = "https://bnosac.github.io/drat")
 ```
 install.packages("...", repos = "https://bnosac.github.io/drat")
 ``` 
+
+## File listing
+
+- [`bin/macosx/el-capitan/contrib/3.5/image.CornerDetectionF9_0.1.0.tgz`](bin/macosx/el-capitan/contrib/3.5/image.CornerDetectionF9_0.1.0.tgz)
+- [`bin/macosx/el-capitan/contrib/3.5/image.Otsu_0.1.tgz`](bin/macosx/el-capitan/contrib/3.5/image.Otsu_0.1.tgz)
+- [`bin/macosx/el-capitan/contrib/3.5/PACKAGES`](bin/macosx/el-capitan/contrib/3.5/PACKAGES)
+- [`bin/macosx/el-capitan/contrib/3.5/PACKAGES.gz`](bin/macosx/el-capitan/contrib/3.5/PACKAGES.gz)
+- [`bin/macosx/el-capitan/contrib/3.5/PACKAGES.rds`](bin/macosx/el-capitan/contrib/3.5/PACKAGES.rds)
+- [`index.md`](index.md)
+- [`index.Rmd`](index.Rmd)
+- [`README.md`](README.md)
+- [`src/contrib/image.CornerDetectionF9_0.1.0.tar.gz`](src/contrib/image.CornerDetectionF9_0.1.0.tar.gz)
+- [`src/contrib/image.Otsu_0.1.tar.gz`](src/contrib/image.Otsu_0.1.tar.gz)
+- [`src/contrib/PACKAGES`](src/contrib/PACKAGES)
+- [`src/contrib/PACKAGES.gz`](src/contrib/PACKAGES.gz)
+- [`src/contrib/PACKAGES.rds`](src/contrib/PACKAGES.rds)
