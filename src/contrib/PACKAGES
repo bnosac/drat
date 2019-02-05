@@ -4,7 +4,7 @@ Imports: Rcpp (>= 0.12.8)
 LinkingTo: Rcpp
 Suggests: pixmap, magick, knitr
 License: BSD_2_clause + file LICENSE
-MD5sum: d9ebaef0c27e5a17ddf2f7b80b261b78
+MD5sum: 32421500752933e2837edefee7fd92a4
 NeedsCompilation: yes
 
 Package: image.Otsu
@@ -13,6 +13,5 @@ Imports: Rcpp (>= 0.12.8)
 LinkingTo: Rcpp
 Suggests: magick
 License: MIT + file LICENSE
-MD5sum: de7745b69bd47447b4cd2b02af8dba4d
+MD5sum: 16041775d94c38706efe75e677b492a9
 NeedsCompilation: yes
-

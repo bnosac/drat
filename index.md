@@ -1,9 +1,4 @@
----
-title: BNOSAC Open R package development repository
-layout: post
----
-
-# bnosac/bnosac.drat
+# BNOSAC Open R package development repository
 
 This repository contains open R packages developed by BNOSAC not yet published on CRAN.
 
@@ -15,23 +10,12 @@ This repository contains open R packages developed by BNOSAC not yet published o
 
 ```r
 pkgs <- available.packages(repos = "https://bnosac.github.io/drat")
-```
-
-```
-## Error in available.packages(repos = "https://bnosac.github.io/drat"): unused argument (repos = "https://bnosac.github.io/drat")
-```
-
-```r
 pkgs
 ```
 
-```
-## Error in eval(expr, envir, enclos): object 'pkgs' not found
-```
-
 
 ```
-## Error in inherits(x, "list"): object 'pkgs' not found
+## Error in if (is.na(row.names)) row.names = has_rownames(x): argument is of length zero
 ```
 
 ## File listing
