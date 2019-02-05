@@ -28,6 +28,7 @@ pkgs
 - [`bin/macosx/el-capitan/contrib/3.5/PACKAGES.rds`](bin/macosx/el-capitan/contrib/3.5/PACKAGES.rds)
 - [`index.md`](index.md)
 - [`index.Rmd`](index.Rmd)
+- [`README.md`](README.md)
 - [`src/contrib/image.CornerDetectionF9_0.1.0.tar.gz`](src/contrib/image.CornerDetectionF9_0.1.0.tar.gz)
 - [`src/contrib/image.Otsu_0.1.tar.gz`](src/contrib/image.Otsu_0.1.tar.gz)
 - [`src/contrib/PACKAGES`](src/contrib/PACKAGES)
