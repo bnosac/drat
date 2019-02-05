@@ -49,6 +49,7 @@ pkgs
 - [`src/contrib/image.CornerDetectionF9_0.1.0.tar.gz`](src/contrib/image.CornerDetectionF9_0.1.0.tar.gz)
 - [`src/contrib/image.CornerDetectionHarris_0.1.0.tar.gz`](src/contrib/image.CornerDetectionHarris_0.1.0.tar.gz)
 - [`src/contrib/image.DenoiseNLMeans_0.1.0.tar.gz`](src/contrib/image.DenoiseNLMeans_0.1.0.tar.gz)
+- [`src/contrib/image.dlib_0.1.0.tar.gz`](src/contrib/image.dlib_0.1.0.tar.gz)
 - [`src/contrib/image.Otsu_0.1.tar.gz`](src/contrib/image.Otsu_0.1.tar.gz)
 - [`src/contrib/PACKAGES`](src/contrib/PACKAGES)
 - [`src/contrib/PACKAGES.gz`](src/contrib/PACKAGES.gz)
