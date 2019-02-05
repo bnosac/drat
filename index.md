@@ -12,17 +12,14 @@ This repository contains open R packages developed by BNOSAC not yet published o
 
 ```r
 pkgs <- available.packages(repos = "https://bnosac.github.io/drat")
-pkgs[, c("Package", "Version", "License")]
+pkgs
 ```
 
-```
-##                         Package                   Version
-## image.CornerDetectionF9 "image.CornerDetectionF9" "0.1.0"
-## image.Otsu              "image.Otsu"              "0.1"  
-##                         License                      
-## image.CornerDetectionF9 "BSD_2_clause + file LICENSE"
-## image.Otsu              "MIT + file LICENSE"
-```
+
+|                        |Package                 |Version |License                     |
+|:-----------------------|:-----------------------|:-------|:---------------------------|
+|image.CornerDetectionF9 |image.CornerDetectionF9 |0.1.0   |BSD_2_clause + file LICENSE |
+|image.Otsu              |image.Otsu              |0.1     |MIT + file LICENSE          |
 
 To install a package, just type: `install.packages("thepackagename", repos = "https://bnosac.github.io/drat")`
 
