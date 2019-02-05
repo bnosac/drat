@@ -1,9 +1,4 @@
----
-title: BNOSAC Open R package development repository
-layout: post
----
-
-# bnosac/bnosac.drat
+# BNOSAC Open R package development repository
 
 This repository contains open R packages developed by BNOSAC not yet published on CRAN.
 
@@ -18,7 +13,7 @@ pkgs
 ``` 
 
 ```{r echo=FALSE}
-knitr::kable(pkgs[, c("Package", "Version", "License")], format = "markdown")
+knitr::kable(pkgs[, c("Package", "Version", "License")], format = "markdown", row.names = NULL)
 ``` 
 
 ## File listing
