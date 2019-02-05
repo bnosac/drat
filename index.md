@@ -15,14 +15,7 @@ available.packages(repos = "https://bnosac.github.io/drat")
 ```
 
 ```
-## Warning: unable to access index for repository https://bnosac.github.io/drat/src/contrib:
-##   cannot open URL 'https://bnosac.github.io/drat/src/contrib/PACKAGES'
-```
-
-```
-##      Package Version Priority Depends Imports LinkingTo Suggests Enhances
-##      License License_is_FOSS License_restricts_use OS_type Archs MD5sum
-##      NeedsCompilation File Repository
+## Error in available.packages(repos = "https://bnosac.github.io/drat"): unused argument (repos = "https://bnosac.github.io/drat")
 ```
 
 ## To install a package
