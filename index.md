@@ -31,8 +31,8 @@ available.packages(repos = "https://bnosac.github.io/drat")
 ## image.CornerDetectionF9 NA                    NA      NA   
 ## image.Otsu              NA                    NA      NA   
 ##                         MD5sum                            
-## image.CornerDetectionF9 "f27ed1bfc3bea04365987db4f2cdaafa"
-## image.Otsu              "dc49d4cc8b25d58edf8e054ba27ea9e4"
+## image.CornerDetectionF9 "6530a757f65dd27b4ebd6b6fb0a7ed97"
+## image.Otsu              "c66e1770bea34992616a438a7299713a"
 ##                         NeedsCompilation File
 ## image.CornerDetectionF9 "yes"            NA  
 ## image.Otsu              "yes"            NA  
