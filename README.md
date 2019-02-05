@@ -26,7 +26,10 @@ pkgs
 
 ## File listing
 
+- [`bin/macosx/el-capitan/contrib/3.4/image.ContourDetector_0.1.0.tgz`](bin/macosx/el-capitan/contrib/3.4/image.ContourDetector_0.1.0.tgz)
 - [`bin/macosx/el-capitan/contrib/3.4/image.CornerDetectionF9_0.1.0.tgz`](bin/macosx/el-capitan/contrib/3.4/image.CornerDetectionF9_0.1.0.tgz)
+- [`bin/macosx/el-capitan/contrib/3.4/image.dlib_0.1.0.tgz`](bin/macosx/el-capitan/contrib/3.4/image.dlib_0.1.0.tgz)
+- [`bin/macosx/el-capitan/contrib/3.4/image.LineSegmentDetector_0.1.0.tgz`](bin/macosx/el-capitan/contrib/3.4/image.LineSegmentDetector_0.1.0.tgz)
 - [`bin/macosx/el-capitan/contrib/3.4/image.Otsu_0.1.tgz`](bin/macosx/el-capitan/contrib/3.4/image.Otsu_0.1.tgz)
 - [`bin/macosx/el-capitan/contrib/3.4/PACKAGES`](bin/macosx/el-capitan/contrib/3.4/PACKAGES)
 - [`bin/macosx/el-capitan/contrib/3.4/PACKAGES.gz`](bin/macosx/el-capitan/contrib/3.4/PACKAGES.gz)
