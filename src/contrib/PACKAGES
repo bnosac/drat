@@ -4,7 +4,7 @@ Imports: Rcpp (>= 0.12.8)
 LinkingTo: Rcpp
 Suggests: pixmap, magick, knitr
 License: BSD_2_clause + file LICENSE
-MD5sum: a11b652a32dabfbd567f5e025656d5d0
+MD5sum: 2637b8ae0e94ce8ff79f83c4b72f63fb
 NeedsCompilation: yes
 
 Package: image.CornerDetectionHarris
@@ -13,7 +13,7 @@ Imports: Rcpp (>= 0.12.8)
 LinkingTo: Rcpp
 Suggests: magick
 License: BSD_2_clause + file LICENSE
-MD5sum: 75fcb5ad1a0b4999eeca9c659b53ce69
+MD5sum: c81f2182addc9005e934d3ca1c80a580
 NeedsCompilation: yes
 
 Package: image.DenoiseNLMeans
@@ -22,7 +22,7 @@ Imports: Rcpp (>= 0.12.9)
 LinkingTo: Rcpp
 Suggests: magick
 License: LGPL-3 + file LICENSE
-MD5sum: 450572cd8ecec22337f1f037778c8dd8
+MD5sum: cde676e7f68752ee759b52bfc7132a88
 NeedsCompilation: yes
 
 Package: image.Otsu
@@ -31,5 +31,5 @@ Imports: Rcpp (>= 0.12.8)
 LinkingTo: Rcpp
 Suggests: magick
 License: MIT + file LICENSE
-MD5sum: 4f7eb7e9ab5a70fe8f2a04fd5c9cffd1
+MD5sum: 5ac32768ecdeebd636df8bd75d6a56fe
 NeedsCompilation: yes
