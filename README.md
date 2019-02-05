@@ -1,1 +1,0 @@
-Go here to visit the drat repository: [`index.md`](index.md).
