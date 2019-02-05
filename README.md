@@ -21,6 +21,11 @@ pkgs
 
 ## File listing
 
+- [`bin/macosx/el-capitan/contrib/3.4/image.CornerDetectionF9_0.1.0.tgz`](bin/macosx/el-capitan/contrib/3.4/image.CornerDetectionF9_0.1.0.tgz)
+- [`bin/macosx/el-capitan/contrib/3.4/image.Otsu_0.1.tgz`](bin/macosx/el-capitan/contrib/3.4/image.Otsu_0.1.tgz)
+- [`bin/macosx/el-capitan/contrib/3.4/PACKAGES`](bin/macosx/el-capitan/contrib/3.4/PACKAGES)
+- [`bin/macosx/el-capitan/contrib/3.4/PACKAGES.gz`](bin/macosx/el-capitan/contrib/3.4/PACKAGES.gz)
+- [`bin/macosx/el-capitan/contrib/3.4/PACKAGES.rds`](bin/macosx/el-capitan/contrib/3.4/PACKAGES.rds)
 - [`bin/macosx/el-capitan/contrib/3.5/image.CornerDetectionF9_0.1.0.tgz`](bin/macosx/el-capitan/contrib/3.5/image.CornerDetectionF9_0.1.0.tgz)
 - [`bin/macosx/el-capitan/contrib/3.5/image.Otsu_0.1.tgz`](bin/macosx/el-capitan/contrib/3.5/image.Otsu_0.1.tgz)
 - [`bin/macosx/el-capitan/contrib/3.5/PACKAGES`](bin/macosx/el-capitan/contrib/3.5/PACKAGES)
