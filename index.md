@@ -14,10 +14,12 @@ pkgs
 ```
 
 
-|Package                 |Version |License                     |Depends |Imports          |Suggests              |
-|:-----------------------|:-------|:---------------------------|:-------|:----------------|:---------------------|
-|image.CornerDetectionF9 |0.1.0   |BSD_2_clause + file LICENSE |NA      |Rcpp (>= 0.12.8) |pixmap, magick, knitr |
-|image.Otsu              |0.1     |MIT + file LICENSE          |NA      |Rcpp (>= 0.12.8) |magick                |
+|Package                     |Version |License                     |Depends |Imports          |Suggests              |
+|:---------------------------|:-------|:---------------------------|:-------|:----------------|:---------------------|
+|image.CornerDetectionF9     |0.1.0   |BSD_2_clause + file LICENSE |NA      |Rcpp (>= 0.12.8) |pixmap, magick, knitr |
+|image.CornerDetectionHarris |0.1.0   |BSD_2_clause + file LICENSE |NA      |Rcpp (>= 0.12.8) |magick                |
+|image.DenoiseNLMeans        |0.1.0   |LGPL-3 + file LICENSE       |NA      |Rcpp (>= 0.12.9) |magick                |
+|image.Otsu                  |0.1     |MIT + file LICENSE          |NA      |Rcpp (>= 0.12.8) |magick                |
 
 ## File listing
 
