@@ -18,3 +18,10 @@ available.packages(repos = "https://bnosac.github.io/drat")
 ```
 install.packages("...", repos = "https://bnosac.github.io/drat")
 ``` 
+
+## File listing
+
+```{r echo=FALSE}
+files <- dir(recursive = TRUE)
+knitr::asis_output(paste0("- [`", files, "`](", files, ")", collapse = "\n"))
+```
