@@ -1,0 +1,15 @@
+Package: image.CornerDetectionF9
+Version: 0.1.0
+Imports: Rcpp (>= 0.12.8)
+LinkingTo: Rcpp
+Suggests: pixmap, magick, knitr
+License: BSD_2_clause + file LICENSE
+MD5sum: c3a39155d59de6078b09d425d2d6d2c0
+
+Package: image.Otsu
+Version: 0.1
+Imports: Rcpp (>= 0.12.8)
+LinkingTo: Rcpp
+Suggests: magick
+License: MIT + file LICENSE
+MD5sum: bd175ab20c12607dc99c3f5473b1387c
