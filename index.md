@@ -14,9 +14,10 @@ pkgs
 ```
 
 
-```
-## Error in if (is.na(row.names)) row.names = has_rownames(x): argument is of length zero
-```
+|Package                 |Version |License                     |
+|:-----------------------|:-------|:---------------------------|
+|image.CornerDetectionF9 |0.1.0   |BSD_2_clause + file LICENSE |
+|image.Otsu              |0.1     |MIT + file LICENSE          |
 
 ## File listing
 
