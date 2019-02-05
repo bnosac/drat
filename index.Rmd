@@ -9,9 +9,13 @@ This repository contains open R packages developed by BNOSAC not yet published o
 
 ## Available packages
 
-```{r echo=TRUE}
+```{r echo=TRUE, results='hide'}
 pkgs <- available.packages(repos = "https://bnosac.github.io/drat")
-pkgs[, c("Package", "Version", "License")]
+pkgs
+``` 
+
+```{r echo=FALSE}
+knitr::kable(pkgs[, c("Package", "Version", "License")], format = "markdown")
 ``` 
 
 To install a package, just type: `install.packages("thepackagename", repos = "https://bnosac.github.io/drat")`
