@@ -10,14 +10,24 @@ This repository contains open R packages developed by BNOSAC not yet published o
 
 ```r
 pkgs <- available.packages(repos = "https://bnosac.github.io/drat")
+```
+
+```
+## Error in available.packages(repos = "https://bnosac.github.io/drat"): unused argument (repos = "https://bnosac.github.io/drat")
+```
+
+```r
 pkgs
 ```
 
+```
+## Error in eval(expr, envir, enclos): object 'pkgs' not found
+```
 
-|Package                 |Version |License                     |Depends |Imports          |Suggests              |
-|:-----------------------|:-------|:---------------------------|:-------|:----------------|:---------------------|
-|image.CornerDetectionF9 |0.1.0   |BSD_2_clause + file LICENSE |NA      |Rcpp (>= 0.12.8) |pixmap, magick, knitr |
-|image.Otsu              |0.1     |MIT + file LICENSE          |NA      |Rcpp (>= 0.12.8) |magick                |
+
+```
+## Error in inherits(x, "list"): object 'pkgs' not found
+```
 
 ## File listing
 
