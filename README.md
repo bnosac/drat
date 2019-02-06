@@ -61,6 +61,7 @@ pkgs
 - [`index.md`](index.md)
 - [`index.Rmd`](index.Rmd)
 - [`README.md`](README.md)
+- [`src/contrib/image.CannyEdges_0.1.0.tar.gz`](src/contrib/image.CannyEdges_0.1.0.tar.gz)
 - [`src/contrib/image.ContourDetector_0.1.0.tar.gz`](src/contrib/image.ContourDetector_0.1.0.tar.gz)
 - [`src/contrib/image.CornerDetectionF9_0.1.0.tar.gz`](src/contrib/image.CornerDetectionF9_0.1.0.tar.gz)
 - [`src/contrib/image.CornerDetectionHarris_0.1.0.tar.gz`](src/contrib/image.CornerDetectionHarris_0.1.0.tar.gz)
