@@ -4,7 +4,7 @@ Imports: Rcpp (>= 0.12.9)
 LinkingTo: Rcpp
 Suggests: pixmap, knitr
 License: GPL-3
-MD5sum: 50004daab18613ee58c53cf8b28426b8
+MD5sum: 47a073b8598bf10e09a1df2ff8fb90c2
 NeedsCompilation: yes
 
 Package: image.ContourDetector
@@ -13,7 +13,7 @@ Imports: Rcpp (>= 0.12.8), sp
 LinkingTo: Rcpp
 Suggests: knitr, pixmap, magick
 License: AGPL-3 + file LICENSE
-MD5sum: 9e9a7626c6282d0968fa8da79688ef99
+MD5sum: dc4a120e6b7f36516d090f701ed6ec50
 NeedsCompilation: yes
 
 Package: image.CornerDetectionF9
@@ -22,7 +22,7 @@ Imports: Rcpp (>= 0.12.8)
 LinkingTo: Rcpp
 Suggests: pixmap, magick, knitr
 License: BSD_2_clause + file LICENSE
-MD5sum: 5f9237d880b0d8f6060c4d6d0af4162d
+MD5sum: 7ea5699a0015bc20f09e8b11e1f1828d
 NeedsCompilation: yes
 
 Package: image.CornerDetectionHarris
@@ -49,7 +49,7 @@ Imports: Rcpp (>= 0.12.9), dlib
 LinkingTo: Rcpp, dlib
 Suggests: magick
 License: AGPL-3
-MD5sum: 43dafca6806967796042434bede1890d
+MD5sum: 398f67416effdc1aa69d4a9d13d4a6d9
 NeedsCompilation: yes
 
 Package: image.LineSegmentDetector
@@ -58,7 +58,7 @@ Imports: Rcpp (>= 0.12.8), sp
 LinkingTo: Rcpp
 Suggests: knitr, pixmap, magick
 License: AGPL-3 + file LICENSE
-MD5sum: cc489dc4b483f722a4a381c3cbf7d1d4
+MD5sum: a25c39c301df8bd12b588a957976bed3
 NeedsCompilation: yes
 
 Package: image.Otsu
@@ -67,5 +67,5 @@ Imports: Rcpp (>= 0.12.8)
 LinkingTo: Rcpp
 Suggests: magick
 License: MIT + file LICENSE
-MD5sum: f330810045acd2ac17fb0480f6decdfe
+MD5sum: ffa56071fc53146568dbe75f1d7a162c
 NeedsCompilation: yes
