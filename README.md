@@ -65,6 +65,7 @@ pkgs
 - [`bin/windows/contrib/3.5/image.darknet_0.1.0.zip`](bin/windows/contrib/3.5/image.darknet_0.1.0.zip)
 - [`bin/windows/contrib/3.5/image.DenoiseNLMeans_0.1.0.zip`](bin/windows/contrib/3.5/image.DenoiseNLMeans_0.1.0.zip)
 - [`bin/windows/contrib/3.5/image.dlib_0.1.0.zip`](bin/windows/contrib/3.5/image.dlib_0.1.0.zip)
+- [`bin/windows/contrib/3.5/image.libfacedetection_0.1.zip`](bin/windows/contrib/3.5/image.libfacedetection_0.1.zip)
 - [`bin/windows/contrib/3.5/image.LineSegmentDetector_0.1.0.zip`](bin/windows/contrib/3.5/image.LineSegmentDetector_0.1.0.zip)
 - [`bin/windows/contrib/3.5/image.Otsu_0.1.zip`](bin/windows/contrib/3.5/image.Otsu_0.1.zip)
 - [`bin/windows/contrib/3.5/PACKAGES`](bin/windows/contrib/3.5/PACKAGES)
