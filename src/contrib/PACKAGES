@@ -13,7 +13,7 @@ Imports: Rcpp (>= 0.12.8), sp
 LinkingTo: Rcpp
 Suggests: knitr, pixmap, magick
 License: AGPL-3 + file LICENSE
-MD5sum: c73eb8e4be6bdfeb9b878c1c0a79bd04
+MD5sum: c18f0a73763a9b94d8a23387ca6cce43
 NeedsCompilation: yes
 
 Package: image.CornerDetectionF9
@@ -22,7 +22,7 @@ Imports: Rcpp (>= 0.12.8)
 LinkingTo: Rcpp
 Suggests: pixmap, magick, knitr
 License: BSD_2_clause + file LICENSE
-MD5sum: c934d35c57507665bb1e3dcd733bf720
+MD5sum: a3b23cd2f6a2ec7624c285a48ca4a474
 NeedsCompilation: yes
 
 Package: image.CornerDetectionHarris
@@ -31,20 +31,20 @@ Imports: Rcpp (>= 0.12.8)
 LinkingTo: Rcpp
 Suggests: magick
 License: BSD_2_clause + file LICENSE
-MD5sum: 74d0f109e747de8458def9b02b19d228
+MD5sum: 82817a8b809199cebfdf1f8ec0ad436b
 NeedsCompilation: yes
 
 Package: image.darknet
 Version: 0.1.0
 License: MIT + file LICENSE
-MD5sum: 05b4361c7110cd6bc41792c57770ad30
+MD5sum: fdb40dc6db6243505d1c2e496b7bf7a8
 NeedsCompilation: yes
 
 Package: image.DenoiseNLMeans
 Version: 0.1.0
 Imports: Rcpp (>= 0.12.9), magick, grDevices
 LinkingTo: Rcpp
-MD5sum: b0cb9226d451a799f19fd00e96ddc89d
+MD5sum: 0cd6798d94dc2967b177ee7e9dec9f8a
 NeedsCompilation: yes
 
 Package: image.dlib
@@ -53,7 +53,7 @@ Imports: Rcpp (>= 0.12.9), dlib
 LinkingTo: Rcpp, dlib
 Suggests: magick
 License: AGPL-3
-MD5sum: c17043fc18599ed66a491f533bb12f3e
+MD5sum: 0a95245f04f7a004bfef2df9cf9b4b3f
 NeedsCompilation: yes
 
 Package: image.libfacedetection
@@ -62,7 +62,7 @@ Imports: Rcpp (>= 0.12.8), graphics
 LinkingTo: Rcpp
 Suggests: magick
 License: BSD_3_clause + file LICENSE
-MD5sum: 8fb732216b3fc6ffa4e104cd8b40bb43
+MD5sum: d59fdfce3eeb083bf7206de3b923931f
 NeedsCompilation: yes
 
 Package: image.LineSegmentDetector
@@ -71,7 +71,7 @@ Imports: Rcpp (>= 0.12.8), sp
 LinkingTo: Rcpp
 Suggests: knitr, pixmap, magick
 License: AGPL-3 + file LICENSE
-MD5sum: e60363c57fcba7ea170ee9243c4646a0
+MD5sum: b4d5c8c94677991d75b73de892df632a
 NeedsCompilation: yes
 
 Package: image.Otsu
@@ -80,5 +80,5 @@ Imports: Rcpp (>= 0.12.8)
 LinkingTo: Rcpp
 Suggests: magick
 License: MIT + file LICENSE
-MD5sum: 641374b3f40d419385505d477e982195
+MD5sum: ffae302e6aa601f33279caab66b4a98e
 NeedsCompilation: yes
