@@ -49,6 +49,14 @@ Suggests: magick
 License: AGPL-3
 Archs: i386, x64
 
+Package: image.libfacedetection
+Version: 0.1
+Imports: Rcpp (>= 0.12.8), graphics
+LinkingTo: Rcpp
+Suggests: magick
+License: BSD_3_clause + file LICENSE
+Archs: i386, x64
+
 Package: image.LineSegmentDetector
 Version: 0.1.0
 Imports: Rcpp (>= 0.12.8), sp
