@@ -78,6 +78,7 @@ pkgs
 - [`src/contrib/image.darknet_0.1.0.tar.gz`](src/contrib/image.darknet_0.1.0.tar.gz)
 - [`src/contrib/image.DenoiseNLMeans_0.1.0.tar.gz`](src/contrib/image.DenoiseNLMeans_0.1.0.tar.gz)
 - [`src/contrib/image.dlib_0.1.0.tar.gz`](src/contrib/image.dlib_0.1.0.tar.gz)
+- [`src/contrib/image.libfacedetection_0.1.tar.gz`](src/contrib/image.libfacedetection_0.1.tar.gz)
 - [`src/contrib/image.LineSegmentDetector_0.1.0.tar.gz`](src/contrib/image.LineSegmentDetector_0.1.0.tar.gz)
 - [`src/contrib/image.Otsu_0.1.tar.gz`](src/contrib/image.Otsu_0.1.tar.gz)
 - [`src/contrib/PACKAGES`](src/contrib/PACKAGES)
