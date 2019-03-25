@@ -4,7 +4,7 @@ Imports: Rcpp (>= 0.12.8), sp
 LinkingTo: Rcpp
 Suggests: knitr, pixmap, magick
 License: AGPL-3 + file LICENSE
-MD5sum: dba54e5a59e68799283b75577511611e
+MD5sum: 65bf04f9a31b5b7c9d7fa9cec1a976a1
 
 Package: image.CornerDetectionF9
 Version: 0.1.0
@@ -12,7 +12,7 @@ Imports: Rcpp (>= 0.12.8)
 LinkingTo: Rcpp
 Suggests: pixmap, magick, knitr
 License: BSD_2_clause + file LICENSE
-MD5sum: adf364b4c8558d1e802fd3c1dd064108
+MD5sum: 13aaadc2cd6bb22fa1a7bed14bfffddb
 
 Package: image.CornerDetectionHarris
 Version: 0.1.0
@@ -20,18 +20,18 @@ Imports: Rcpp (>= 0.12.8)
 LinkingTo: Rcpp
 Suggests: magick
 License: BSD_2_clause + file LICENSE
-MD5sum: a54756c8c164b4e8cbf39f78d84b15d1
+MD5sum: 739f9f826f3daa59bc076f329be03822
 
 Package: image.darknet
 Version: 0.1.0
 License: MIT + file LICENSE
-MD5sum: e97af3cbd111189077a6b3e6a57fefb7
+MD5sum: 24911faf16106fe772acb319c7427cef
 
 Package: image.DenoiseNLMeans
 Version: 0.1.0
 Imports: Rcpp (>= 0.12.9), magick, grDevices
 LinkingTo: Rcpp
-MD5sum: 4e19443c6e23daa8cd527eaceddc0c93
+MD5sum: 89771ac2589399efc0d4b127751782ad
 
 Package: image.dlib
 Version: 0.1.0
@@ -39,7 +39,7 @@ Imports: Rcpp (>= 0.12.9), dlib
 LinkingTo: Rcpp, dlib
 Suggests: magick
 License: AGPL-3
-MD5sum: 357f86167d6127c48a14ec42a0478c9c
+MD5sum: cc21a5b86f24bd81dd83a805efe1fc31
 
 Package: image.libfacedetection
 Version: 0.1
@@ -47,7 +47,7 @@ Imports: Rcpp (>= 0.12.8), graphics
 LinkingTo: Rcpp
 Suggests: magick
 License: BSD_3_clause + file LICENSE
-MD5sum: 8e0338ae87d8798ff106d830715ce3a5
+MD5sum: fa774bdcf056708a558a95dd406e26ce
 
 Package: image.LineSegmentDetector
 Version: 0.1.0
@@ -55,7 +55,7 @@ Imports: Rcpp (>= 0.12.8), sp
 LinkingTo: Rcpp
 Suggests: knitr, pixmap, magick
 License: AGPL-3 + file LICENSE
-MD5sum: b6736e16574d1c0e8f4c2be80e2e1288
+MD5sum: 64db5ffa2ec282be677ca8fe299ac559
 
 Package: image.Otsu
 Version: 0.1
@@ -63,4 +63,4 @@ Imports: Rcpp (>= 0.12.8)
 LinkingTo: Rcpp
 Suggests: magick
 License: MIT + file LICENSE
-MD5sum: 2740092607ecee48969f8868fcf9dc1e
+MD5sum: c75d3b7ede2d7e49b06c4aa8a76e20f4
