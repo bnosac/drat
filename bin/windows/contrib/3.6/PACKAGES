@@ -1,0 +1,66 @@
+Package: image.ContourDetector
+Version: 0.1.0
+Imports: Rcpp (>= 0.12.8), sp
+LinkingTo: Rcpp
+Suggests: knitr, pixmap, magick
+License: AGPL-3 + file LICENSE
+Archs: i386, x64
+
+Package: image.CornerDetectionF9
+Version: 0.1.0
+Imports: Rcpp (>= 0.12.8)
+LinkingTo: Rcpp
+Suggests: pixmap, magick, knitr
+License: BSD_2_clause + file LICENSE
+Archs: i386, x64
+
+Package: image.CornerDetectionHarris
+Version: 0.1.0
+Imports: Rcpp (>= 0.12.8)
+LinkingTo: Rcpp
+Suggests: magick
+License: BSD_2_clause + file LICENSE
+Archs: i386, x64
+
+Package: image.darknet
+Version: 0.1.0
+License: MIT + file LICENSE
+Archs: i386, x64
+
+Package: image.DenoiseNLMeans
+Version: 0.1.0
+Imports: Rcpp (>= 0.12.9), magick, grDevices
+LinkingTo: Rcpp
+Archs: i386, x64
+
+Package: image.dlib
+Version: 0.1.0
+Imports: Rcpp (>= 0.12.9), dlib
+LinkingTo: Rcpp, dlib
+Suggests: magick
+License: AGPL-3
+Archs: i386, x64
+
+Package: image.libfacedetection
+Version: 0.1
+Imports: Rcpp (>= 0.12.8), graphics
+LinkingTo: Rcpp
+Suggests: magick
+License: BSD_3_clause + file LICENSE
+Archs: i386, x64
+
+Package: image.LineSegmentDetector
+Version: 0.1.0
+Imports: Rcpp (>= 0.12.8), sp
+LinkingTo: Rcpp
+Suggests: knitr, pixmap, magick
+License: AGPL-3 + file LICENSE
+Archs: i386, x64
+
+Package: image.Otsu
+Version: 0.1
+Imports: Rcpp (>= 0.12.8)
+LinkingTo: Rcpp
+Suggests: magick
+License: MIT + file LICENSE
+Archs: i386, x64
