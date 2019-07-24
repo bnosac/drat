@@ -4,7 +4,7 @@ Imports: Rcpp (>= 0.12.8), sp
 LinkingTo: Rcpp
 Suggests: knitr, pixmap, magick
 License: AGPL-3 + file LICENSE
-MD5sum: dbda392159a77894f9f16d61e9e63dea
+MD5sum: a781d50d12a13aeb098c3e1626985100
 
 Package: image.CornerDetectionF9
 Version: 0.1.0
@@ -12,7 +12,7 @@ Imports: Rcpp (>= 0.12.8)
 LinkingTo: Rcpp
 Suggests: pixmap, magick, knitr
 License: BSD_2_clause + file LICENSE
-MD5sum: 62e8abb65265440c572fd25f90bad771
+MD5sum: 725eb11743b825169391096b06701da3
 
 Package: image.CornerDetectionHarris
 Version: 0.1.0
@@ -20,18 +20,18 @@ Imports: Rcpp (>= 0.12.8)
 LinkingTo: Rcpp
 Suggests: magick
 License: BSD_2_clause + file LICENSE
-MD5sum: 5d596a7838e63acb8f9ec1b06f277c68
+MD5sum: 7d4baabea31358cbc547fd964f2ba08c
 
 Package: image.darknet
 Version: 0.1.0
 License: MIT + file LICENSE
-MD5sum: e9236558ad418f13188633d061d53469
+MD5sum: 92a5444c8072572a03f5e0e7f1f5b180
 
 Package: image.DenoiseNLMeans
 Version: 0.1.0
 Imports: Rcpp (>= 0.12.9), magick, grDevices
 LinkingTo: Rcpp
-MD5sum: 6e578dd01beb9b5d23593c33cd350d88
+MD5sum: db30303ab409c94715d2ba17441aeaea
 
 Package: image.dlib
 Version: 0.1.0
@@ -39,7 +39,7 @@ Imports: Rcpp (>= 0.12.9), dlib
 LinkingTo: Rcpp, dlib
 Suggests: magick
 License: AGPL-3
-MD5sum: 2d9d76f19c6958e27730d1abf3529349
+MD5sum: deb126a767f429315d9be34c28d15c3b
 
 Package: image.libfacedetection
 Version: 0.1
@@ -47,7 +47,7 @@ Imports: Rcpp (>= 0.12.8), graphics
 LinkingTo: Rcpp
 Suggests: magick
 License: BSD_3_clause + file LICENSE
-MD5sum: c7ffbb4b90e43f7ecb28de0a1d560f36
+MD5sum: efa833f9cf052ec720d8b0fe3d2ece77
 
 Package: image.LineSegmentDetector
 Version: 0.1.0
@@ -55,7 +55,7 @@ Imports: Rcpp (>= 0.12.8), sp
 LinkingTo: Rcpp
 Suggests: knitr, pixmap, magick
 License: AGPL-3 + file LICENSE
-MD5sum: ef5fee7757274aada5227b7b885f7206
+MD5sum: 15d15b5293d861dd2e4a775ae65b70d3
 
 Package: image.Otsu
 Version: 0.1
@@ -63,4 +63,4 @@ Imports: Rcpp (>= 0.12.8)
 LinkingTo: Rcpp
 Suggests: magick
 License: MIT + file LICENSE
-MD5sum: 9e3eff8d214ad6760ff64478379100ee
+MD5sum: 0922242f32a37bfefc229d8a4b420686
