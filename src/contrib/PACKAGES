@@ -13,16 +13,16 @@ Imports: Rcpp (>= 0.12.8), sp
 LinkingTo: Rcpp
 Suggests: knitr, pixmap, magick
 License: AGPL-3 + file LICENSE
-MD5sum: 00ca16d59532d373524daa4dd3c34243
+MD5sum: 2874c9862fc205890a7907be3b510cd4
 NeedsCompilation: yes
 
 Package: image.CornerDetectionF9
 Version: 0.1.0
 Imports: Rcpp (>= 0.12.8)
 LinkingTo: Rcpp
-Suggests: pixmap, magick, knitr
+Suggests: pixmap, magick
 License: BSD_2_clause + file LICENSE
-MD5sum: c01ba4f891ecd75d5e97e1931690890d
+MD5sum: 16e89e929205db04edd9439d08d94962
 NeedsCompilation: yes
 
 Package: image.CornerDetectionHarris
@@ -31,20 +31,20 @@ Imports: Rcpp (>= 0.12.8)
 LinkingTo: Rcpp
 Suggests: magick
 License: BSD_2_clause + file LICENSE
-MD5sum: e8c2037496844cf0ca59db535a4107f7
+MD5sum: 67740844bf29bbba0bb6c9631c53c4d8
 NeedsCompilation: yes
 
 Package: image.darknet
 Version: 0.1.0
 License: MIT + file LICENSE
-MD5sum: 7945d519b197d4a6af8d5f676dd42b20
+MD5sum: d230d55cdfe62dc043b2111e94b815cd
 NeedsCompilation: yes
 
 Package: image.DenoiseNLMeans
 Version: 0.1.0
 Imports: Rcpp (>= 0.12.9), magick, grDevices
 LinkingTo: Rcpp
-MD5sum: 01f283d0fac155d011e82f638afd6adb
+MD5sum: 8611bcad1742f29b9d56f2ac27ebf057
 NeedsCompilation: yes
 
 Package: image.dlib
@@ -53,7 +53,7 @@ Imports: Rcpp (>= 0.12.9), dlib
 LinkingTo: Rcpp, dlib
 Suggests: magick
 License: AGPL-3
-MD5sum: eb6e5b28ef3e76604635fec01b2eaf80
+MD5sum: e51dc2db88f7a263c158081e6f7d2ee8
 NeedsCompilation: yes
 
 Package: image.libfacedetection
@@ -62,7 +62,7 @@ Imports: Rcpp (>= 0.12.8), graphics
 LinkingTo: Rcpp
 Suggests: magick
 License: BSD_3_clause + file LICENSE
-MD5sum: e90d6ad18c622e55f1b15f8a178b130f
+MD5sum: 9ada7f0ec843e6959934086bb0c97c71
 NeedsCompilation: yes
 
 Package: image.LineSegmentDetector
@@ -71,7 +71,7 @@ Imports: Rcpp (>= 0.12.8), sp
 LinkingTo: Rcpp
 Suggests: knitr, pixmap, magick
 License: AGPL-3 + file LICENSE
-MD5sum: fd653b17da332bfa4270943108707f60
+MD5sum: bd4dab838f16883e9c5d83adc0108054
 NeedsCompilation: yes
 
 Package: image.Otsu
@@ -80,5 +80,5 @@ Imports: Rcpp (>= 0.12.8)
 LinkingTo: Rcpp
 Suggests: magick
 License: MIT + file LICENSE
-MD5sum: dc54ea3525f892c4b3ba596b818dca07
+MD5sum: 58f1d00ada6d52739efd454a5ca19252
 NeedsCompilation: yes
