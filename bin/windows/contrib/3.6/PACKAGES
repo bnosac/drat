@@ -2,8 +2,8 @@ Package: image.ContourDetector
 Version: 0.1.0
 Imports: Rcpp (>= 0.12.8), sp
 LinkingTo: Rcpp
-Suggests: knitr, pixmap, magick
-License: AGPL-3 + file LICENSE
+Suggests: pixmap, magick
+License: AGPL-3
 Archs: i386, x64
 
 Package: image.CornerDetectionF9
@@ -53,8 +53,8 @@ Package: image.LineSegmentDetector
 Version: 0.1.0
 Imports: Rcpp (>= 0.12.8), sp
 LinkingTo: Rcpp
-Suggests: knitr, pixmap, magick
-License: AGPL-3 + file LICENSE
+Suggests: pixmap, magick
+License: AGPL-3
 Archs: i386, x64
 
 Package: image.Otsu
