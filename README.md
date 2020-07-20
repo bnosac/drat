@@ -14,18 +14,18 @@ pkgs
 ```
 
 
-|Package                     |Version |License                     |Depends |Imports                             |Suggests              |
-|:---------------------------|:-------|:---------------------------|:-------|:-----------------------------------|:---------------------|
-|image.CannyEdges            |0.1.0   |GPL-3                       |NA      |Rcpp (>= 0.12.9)                    |pixmap, knitr         |
-|image.ContourDetector       |0.1.0   |AGPL-3 + file LICENSE       |NA      |Rcpp (>= 0.12.8), sp                |knitr, pixmap, magick |
-|image.CornerDetectionF9     |0.1.0   |BSD_2_clause + file LICENSE |NA      |Rcpp (>= 0.12.8)                    |pixmap, magick        |
-|image.CornerDetectionHarris |0.1.0   |BSD_2_clause + file LICENSE |NA      |Rcpp (>= 0.12.8)                    |magick                |
-|image.darknet               |0.1.0   |MIT + file LICENSE          |NA      |NA                                  |NA                    |
-|image.DenoiseNLMeans        |0.1.0   |NA                          |NA      |Rcpp (>= 0.12.9), magick, grDevices |NA                    |
-|image.dlib                  |0.1.0   |AGPL-3                      |NA      |Rcpp (>= 0.12.9), dlib              |magick                |
-|image.libfacedetection      |0.1     |BSD_3_clause + file LICENSE |NA      |Rcpp (>= 0.12.8), graphics          |magick                |
-|image.LineSegmentDetector   |0.1.0   |AGPL-3 + file LICENSE       |NA      |Rcpp (>= 0.12.8), sp                |knitr, pixmap, magick |
-|image.Otsu                  |0.1     |MIT + file LICENSE          |NA      |Rcpp (>= 0.12.8)                    |magick                |
+|Package                     |Version |License                     |Depends |Imports                             |Suggests       |
+|:---------------------------|:-------|:---------------------------|:-------|:-----------------------------------|:--------------|
+|image.CannyEdges            |0.1.0   |GPL-3                       |NA      |Rcpp (>= 0.12.9)                    |pixmap, knitr  |
+|image.ContourDetector       |0.1.0   |AGPL-3                      |NA      |Rcpp (>= 0.12.8), sp                |pixmap, magick |
+|image.CornerDetectionF9     |0.1.0   |BSD_2_clause + file LICENSE |NA      |Rcpp (>= 0.12.8)                    |pixmap, magick |
+|image.CornerDetectionHarris |0.1.0   |BSD_2_clause + file LICENSE |NA      |Rcpp (>= 0.12.8)                    |magick         |
+|image.darknet               |0.1.0   |MIT + file LICENSE          |NA      |NA                                  |NA             |
+|image.DenoiseNLMeans        |0.1.0   |NA                          |NA      |Rcpp (>= 0.12.9), magick, grDevices |NA             |
+|image.dlib                  |0.1.0   |AGPL-3                      |NA      |Rcpp (>= 0.12.9), dlib              |magick         |
+|image.libfacedetection      |0.1     |BSD_3_clause + file LICENSE |NA      |Rcpp (>= 0.12.8), graphics          |magick         |
+|image.LineSegmentDetector   |0.1.0   |AGPL-3                      |NA      |Rcpp (>= 0.12.8), sp                |pixmap, magick |
+|image.Otsu                  |0.1     |MIT + file LICENSE          |NA      |Rcpp (>= 0.12.8)                    |magick         |
 
 ## File listing
 
