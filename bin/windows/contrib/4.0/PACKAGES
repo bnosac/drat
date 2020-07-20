@@ -10,7 +10,7 @@ Package: image.CornerDetectionF9
 Version: 0.1.0
 Imports: Rcpp (>= 0.12.8)
 LinkingTo: Rcpp
-Suggests: pixmap, magick, knitr
+Suggests: pixmap, magick
 License: BSD_2_clause + file LICENSE
 Archs: i386, x64
 
