@@ -13,7 +13,7 @@ Imports: Rcpp (>= 0.12.8), sp
 LinkingTo: Rcpp
 Suggests: pixmap, magick
 License: AGPL-3
-MD5sum: e3c18b7f894b9b1586892bac12e9bf57
+MD5sum: f455e23f22920c69b23e422ca644270c
 NeedsCompilation: yes
 
 Package: image.CornerDetectionF9
@@ -22,7 +22,7 @@ Imports: Rcpp (>= 0.12.8)
 LinkingTo: Rcpp
 Suggests: pixmap, magick
 License: BSD_2_clause + file LICENSE
-MD5sum: c910b310908a77232cfb5d972b340de3
+MD5sum: ef419d90b60e608ebbf767534f95807f
 NeedsCompilation: yes
 
 Package: image.CornerDetectionHarris
@@ -31,20 +31,20 @@ Imports: Rcpp (>= 0.12.8)
 LinkingTo: Rcpp
 Suggests: magick
 License: BSD_2_clause + file LICENSE
-MD5sum: d83b96b0b2f2491c7c46e6dddcf2e821
+MD5sum: 9c67899caab81dbc9bccafff15927fae
 NeedsCompilation: yes
 
 Package: image.darknet
 Version: 0.1.0
 License: MIT + file LICENSE
-MD5sum: 8407e0963beb54db503d9a028b2a8300
+MD5sum: bd7c41b3e0ded0cb3dd153ba6d8618d7
 NeedsCompilation: yes
 
 Package: image.DenoiseNLMeans
 Version: 0.1.0
 Imports: Rcpp (>= 0.12.9), magick, grDevices
 LinkingTo: Rcpp
-MD5sum: 0c11d29e11f87985b4ac439c2801a4c6
+MD5sum: 88465063bdb737a693206bd71f6fdbfc
 NeedsCompilation: yes
 
 Package: image.dlib
@@ -53,7 +53,7 @@ Imports: Rcpp (>= 0.12.9)
 LinkingTo: Rcpp
 Suggests: magick, FNN
 License: BSL-1.0
-MD5sum: a77d2720b24a3d7fc74a4c9a25d624b2
+MD5sum: ca16e0ccb315882a3455a01934924e94
 NeedsCompilation: yes
 
 Package: image.libfacedetection
@@ -62,7 +62,7 @@ Imports: Rcpp (>= 0.12.8), graphics
 LinkingTo: Rcpp
 Suggests: magick
 License: BSD_3_clause + file LICENSE
-MD5sum: 76e5e00a6ec5a145a05ab83f74508d33
+MD5sum: ce64780571e40cb913650f730a3ee24c
 NeedsCompilation: yes
 
 Package: image.LineSegmentDetector
@@ -71,7 +71,7 @@ Imports: Rcpp (>= 0.12.8), sp
 LinkingTo: Rcpp
 Suggests: pixmap, magick
 License: AGPL-3
-MD5sum: 6ca496599fac0e1b0aa80518e4b08b41
+MD5sum: 1366d679d69d2a80923a87017ded0eeb
 NeedsCompilation: yes
 
 Package: image.Otsu
@@ -80,5 +80,5 @@ Imports: Rcpp (>= 0.12.8)
 LinkingTo: Rcpp
 Suggests: magick
 License: MIT + file LICENSE
-MD5sum: d0347133ab8b6c5c982b33592976c036
+MD5sum: af3f630f4e680c2ede854bc95b469448
 NeedsCompilation: yes
