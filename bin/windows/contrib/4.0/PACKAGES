@@ -35,10 +35,10 @@ Archs: i386, x64
 
 Package: image.dlib
 Version: 0.1.0
-Imports: Rcpp (>= 0.12.9), dlib
-LinkingTo: Rcpp, dlib
-Suggests: magick
-License: AGPL-3
+Imports: Rcpp (>= 0.12.9)
+LinkingTo: Rcpp
+Suggests: magick, FNN
+License: BSL-1.0
 Archs: i386, x64
 
 Package: image.libfacedetection
