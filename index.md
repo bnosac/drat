@@ -107,6 +107,7 @@ pkgs
 - [`bin/windows/contrib/4.0/image.ContourDetector_0.1.0.zip`](bin/windows/contrib/4.0/image.ContourDetector_0.1.0.zip)
 - [`bin/windows/contrib/4.0/image.CornerDetectionF9_0.1.0.zip`](bin/windows/contrib/4.0/image.CornerDetectionF9_0.1.0.zip)
 - [`bin/windows/contrib/4.0/image.CornerDetectionHarris_0.1.0.zip`](bin/windows/contrib/4.0/image.CornerDetectionHarris_0.1.0.zip)
+- [`bin/windows/contrib/4.0/image.CornerDetectionHarris_0.1.1.zip`](bin/windows/contrib/4.0/image.CornerDetectionHarris_0.1.1.zip)
 - [`bin/windows/contrib/4.0/image.darknet_0.1.0.zip`](bin/windows/contrib/4.0/image.darknet_0.1.0.zip)
 - [`bin/windows/contrib/4.0/image.DenoiseNLMeans_0.1.0.zip`](bin/windows/contrib/4.0/image.DenoiseNLMeans_0.1.0.zip)
 - [`bin/windows/contrib/4.0/image.dlib_0.1.0.zip`](bin/windows/contrib/4.0/image.dlib_0.1.0.zip)
